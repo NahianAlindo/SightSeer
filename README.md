@@ -1,0 +1,1 @@
+SightSeer is a tourism searching website so you don't have to worry about accommodations for your next trip to any location. This web app is built using Bootstrap, Node.js, Express.js, MongoDB and so on.
